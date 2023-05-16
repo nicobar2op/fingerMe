@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(34, 34, 34);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: orange;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+img {
+  margin: 20px;
+  height: 25%;
+  width: 35%;
+}
+
+button {
+  color: aliceblue;
+  padding: 10px;
+  background-color: orange;
+  font-style: bold;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+p{
+  color: white;
+  font-size: 50px;
+}
